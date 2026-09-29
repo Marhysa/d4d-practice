@@ -12,6 +12,7 @@ in the same place as the work.
 
 Write one or two sentences here saying what this repository is.
 
+This is a practice repsitory. I changed the date on the status of the extension ladder, added information on how to reserve a tool, and changed the header color.
 ---
 
 ## The exercise
@@ -67,7 +68,7 @@ tells me you got through the exercise. A note that says which command you
 reached for first and why it was the wrong one tells me you understand what
 happened.
 
-*(your note goes here)*
+*(I broke styles.css by deleting a few rules, and I fixed it by running the command "git restore styles.css." This whole process was on purpose. I broke the navigation by removing it, and I fixed it by running the command "git add ." and "git commit -m "add the site navigation"." This whole process was on purpose. The command I tried to bring it back was "git revert HEAD" and "git push"; it didn't work, and I expected it to work. This is when I asked for help since the command didn't work. I still don't know why the command didn't work.)*
 
 ---
 
